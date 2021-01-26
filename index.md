@@ -1,459 +1,51 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.79.0">
-    <title>Student Stimulus Tracker</title>
+Absolutely not an official website of the United States Government
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/starter-template/">
+[![](https://sa.www4.irs.gov/irfof-wmsp/webjars/images/logo.png)](#)
 
-    
+[Español](#)
 
-    <!-- Bootstrap core CSS -->
-<link href="./assets/dist/css/bootstrap.css" rel="stylesheet">
+[  |  ](#)
 
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
+[Exit](#)
 
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-    </style>
+[](#)
 
-    
-    <!-- Custom styles for this template -->
-    <link href="gophish.css" rel="stylesheet">
+Get My Payment {.login-title}
+==============
 
+If you need additional help, please visit our [Frequently Asked
+Questions](https://www.irs.gov/covid-app-faq-1) page.
 
-  </head>
+All fields marked with an asterisk (\*) are required.
 
-  <header>
-      <div class="flagtext" id="banner" style="background: #f1f1f1; width: 100%;">
-        <p class="usflag">Absolutely not an official website of the United States Government</p>
-      </div>
+\
 
+Social Security Number (SSN) or Individual Tax ID Number (ITIN) \*
 
+Enter your 9 digit Social Security Number (SSN) or Individual Tax
+Identification Number (ITIN).
 
-<script>$('#topnavbar').affix({
-    offset: {
-        top: $('#banner').height()
-    }   
-});</script>
-</header>
+Date of Birth \*
 
-  <body>
+Enter your Date of Birth in MM/DD/YYYY format.
 
+Street Address \*
 
-    
-<nav class="navbar navbar-expand-md navbar-dark bg-light" id="topnavbar">
-  <div class="container-fluid">
+Enter your Street Address in "123 Main St NW \#7" format. Do not enter
+City/Town or State.
 
+ZIP or Postal Code (\* Required except for countries without ZIP or
+postal codes)
 
-    
-     <a class="navbar-brand" href="#">
-      <img src="https://sa.www4.irs.gov/irfof-wmsp/webjars/images/logo.png" width="130" height="45" alt="">
-    </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+Enter your 5 digit ZIP or Postal Code.
 
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-      <ul class="navbar-nav me-auto mb-2 mb-md-0">
-        <li class="nav-item active">
-          <a class="nav-link" aria-current="page" href="#"><u>Español</u></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">&nbsp;&nbsp;|&nbsp;&nbsp;</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#"><u>Exit</u>
-          </a>
-          <li class="nav-item">
-          <a class="nav-link" href="#">
-                      <svg aria-hidden="true" focusable="false" viewBox="0 0 491.1 412.5">
-                      <path d="M 282.9 283.5 v 11.9 c 0 24.5 0.1 49.1 0 73.6 c 0 9.3 3.2 16.6 12 20.6 c
-                          9.2 4.1 16.7 0.5 23 -5.9 c 54.4 -54.3 108.8 -108.6 163.1 -163.1 c 10.2 -10.2
-                          10.3 -21 0.3 -31 c -54.4 -54.7 -109.1 -109.2 -163.7 -163.7 c -6.1 -6.1 -13.4
-                          -9.4 -22.3 -5.7 c -8.9 3.8 -12.4 11 -12.4 20.3 v 86 h -11.8 c -40.6 0 -81.1
-                          -0.1 -121.7 0 c -15.7 0 -23.5 7.1 -23.6 22.3 c -0.2 37.6 -0.2 75.3 0 112.9 c
-                          0.1 14.2 7.9 21.6 22.1 21.8 c 15.7 0.2 31.4 0.1 47.1 0.1 c 28.8 -0.1 57.6
-                          -0.1 87.9 -0.1 Z M 8.2 205 h -0.4 c 0 35.7 -0.3 71.4 0.1 107 c 0.4 46.6 30.7
-                          83.4 76.9 87.8 c 36.3 3.5 73.2 1.4 109.8 1.2 c 2.8 0 7.1 -3.9 8 -6.8 c 1.7
-                          -5.1 2 -10.9 1.6 -16.4 c -0.9 -14 -2.8 -15.5 -16.7 -15.5 h -87.4 C 68 362.2
-                          47 343 46.7 311.2 c -0.6 -70.7 -0.6 -141.4 0 -212.1 c 0.3 -32 21.1 -51.1
-                          53.2 -51.2 c 28.8 -0.1 57.6 0 86.4 0 c 15.2 0 18.1 -2.9 18.1 -18.4 c 0 -3.3
-                          -0.6 -6.5 -0.8 -9.8 c -0.5 -7.6 -4.5 -11 -12.1 -11 c -33.4 0.1 -66.8 -0.7
-                          -100.1 0.4 c -44.7 1.5 -81.1 36.6 -83 81.1 c -1.4 38.2 -0.2 76.5 -0.2 114.8
-                          Z">
-                       </path>
-                       <path d="M 282.9 283.5 h -87.8 c -15.7 0 -31.4 0.2 -47.1 -0.1 c -14.2 -0.2 -22 -7.6
-                          -22.1 -21.8 c -0.3 -37.6 -0.3 -75.3 0 -112.9 c 0.1 -15.1 7.9 -22.2 23.6
-                          -22.3 c 40.6 -0.1 81.1 0 121.7 0 H 283 V 114 V 40.4 c 0 -9.3 3.5 -16.5 12.4
-                          -20.3 c 8.8 -3.7 16.1 -0.4 22.3 5.7 C 372.4 80.3 427 134.9 481.5 189.6 c 10
-                          10 9.8 20.8 -0.3 31 c -54.3 54.5 -108.7 108.8 -163.1 163.1 c -6.4 6.4 -13.9
-                          10 -23 5.9 c -8.8 -4 -12 -11.3 -12 -20.6 c 0.1 -24.5 0 -49.1 0 -73.6 c -0.2
-                          -3.5 -0.2 -7 -0.2 -11.9 Z">
-                       </path>
-                       <path d="M 8.2 205 c 0 -38.3 -1.3 -76.6 0.3 -114.8 c 1.9 -44.5 38.3 -79.6 83 -81.1 c
-                          33.3 -1.1 66.8 -0.3 100.1 -0.4 c 7.6 0 11.6 3.4 12.1 11 c 0.2 3.3 0.8 6.5
-                          0.8 9.8 c 0 15.5 -3 18.4 -18.1 18.4 H 100 c -32.1 0.1 -53 19.3 -53.2 51.2 c
-                          -0.6 70.7 -0.6 141.4 0 212.1 c 0.3 31.8 21.3 51.1 53.4 51.1 c 29.1 0.1 58.3
-                          0 87.4 0 c 13.9 0 15.8 1.5 16.7 15.5 c 0.3 5.5 0 11.3 -1.6 16.4 c -1 2.9
-                          -5.2 6.8 -8 6.8 c -36.6 0.2 -73.5 2.3 -109.8 -1.2 c -46.3 -4.3 -76.6 -41.2
-                          -77 -87.8 c -0.3 -35.7 -0.1 -71.3 -0.1 -107 h 0.4 Z">
-                        </path>
-                    </svg>
-          </a>
-        </li>
-        </li>
-        <!--<li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
-          <ul class="dropdown-menu" aria-labelledby="dropdown01">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
-          </ul>
-        </li>
-      </ul>-->
-    </div>
-  </div>
-</nav>
+Continue
 
-<main class="container">
+![Decorative IRS
+Logo](https://sa.www4.irs.gov/irfof-wmsp/webjars/images/irs_horiz_white.png)
 
+IRS Privacy Policy
 
+[  | ](#)
 
-  <form action="/irfof-wmsp/login" 
-  method="post">
-
-  <h1 class="login-title">Get My Payment</h1>
-
-  <p>If you need additional help, please visit our <a href="https://www.irs.gov/covid-app-faq-1" target="_blank">Frequently Asked Questions</a> page.</p>
-  
-  <p>
-  <span>All fields marked with an asterisk (<font color = "#CD2026">*</font>) are required.</span>
-  </p>
-  <br>
-  
-  
-          
-    
-
-    <div class="form-group">
-      <div class="control-label">
-        <label>Social Security Number (SSN) or Individual Tax ID Number (ITIN)</label> 
-        <label style="color:#CD2026;font-weight:normal">*</label> 
-      </div>
-      <span class="fsad-hint">Enter your 9 digit Social Security Number (SSN) or Individual Tax Identification Number (ITIN).</span> 
-      <input class="form-control"  
-        id="ssnInput"
-        type="password"
-        autocomplete="off"
-        maxlength="11"
-        aria-required="true"  
-        aria-labelledby="ssnInput"
-        title="Enter your 9 digit Social Security Number (SSN) or Individual Tax ID Number (ITIN)" name="ssn" value=""/> 
-        
-    </div>
-
-    <div class="form-group">
-      <div class="control-label">
-        <label for="dobInput">Date of Birth</label>
-        <label style="color:#CD2026;font-weight:normal">*</label> 
-      </div>
-      <span class="fsad-hint">Enter your Date of Birth in MM/DD/YYYY format.</span>
-      <div class="login-dob">
-        <input class="date form-control" 
-          id="date"
-          title="Enter your Date of Birth in MM/DD/YYYY format" 
-          maxlength="10" 
-          aria-required="true" 
-          aria-labelledby="date"
-          type="text" name="dob" value="" />
-      </div>
-      
-    </div>
-
-    <div class="form-group">
-      <div class="control-label">
-        <label>Street Address</label>
-        <label style="color:#CD2026;font-weight:normal">*</label>
-      </div>
-      <span class="fsad-hint">Enter your Street Address in &quot;123 Main St NW #7&quot; format. Do not enter City/Town or State.</span>
-      <input class="form-control"  
-        id="addressInput"
-        value="North Ave NW"
-        maxlength="100" 
-        type="text" 
-        aria-required="true"
-        aria-labelledby="addressInput" 
-        title="Enter your Street Address" name="address" value=""/> 
-        
-    </div>
-
-    <div class="form-group">
-      <div class="control-label">
-        <label>ZIP or Postal Code</label>
-        <label style="color:#CD2026;font-weight:normal">(* Required except for countries without ZIP or postal codes)</label>
-      </div>
-      <span class="fsad-hint">Enter your 5 digit ZIP or Postal Code.</span>
-      <input class="form-control" 
-        id="zipCodeInput"
-        value="30332"
-        maxlength="12" 
-        type="text"
-        aria-labelledby="zipCodeInput"  
-        title="Enter your 5 digit ZIP or Postal Code" name="zipCode" value=""/> 
-        
-    </div>
-
-    <div>
-      <button class="login-submit-button btn btn-primary" name="submit"
-        title="Click this button to continue" type="submit" value="submit">Continue</button>
-    </div>
-</form>
-
-<script>
-    $('#date').datepicker({ 
-      // Display format of the weekday names - values are 'short' or 'narrow' 
-      weekDayFormat: 'narrow',  
-      // Initial calendar - values are 0 or 'days', 1 or 'months', 2 or 'years' 
-      startView: 0,  
-      // Array of the week days number to disable 
-      daysOfWeekDisabled: [], 
-      // Array of the dates to disable 
-      datesDisabled: [], 
-      // callbacks 
-      isDateDisabled: null, 
-      isMonthDisabled: null, 
-      isYearDisabled: null, 
-      // Custom formats 
-      inputFormat: "", 
-      outputFormat: "MM/dd/yyyy", 
-      titleFormat: "MM/DD/YYYY", 
-      // Place the calendar button to the left of the text field 
-      buttonLeft: false, 
-      // Called when the input box has been updated by the datepicker 
-      onUpdate: function (value) {},
-      // bootstrap3 or bootstrap4 
-      markup: 'bootstrap4',  
-      // Name of the theme 
-      // 'green', 'blue', 'maroon' or 'bootstrap' 
-      theme: 'bootstrap', 
-      // Link the target input of the datepicker to the input of another datepicker that represents the start date of a range 
-      previous: null, 
-      // Link the target input of the datepicker to the input of another datepicker that represents the end date of a range 
-      next: null, 
-      // The calendar must be opened in modal mode, that is it keeps the focus until the user selects a date or clicks the close button 
-      modal: false, 
-      // Display the datepicker inline inside a given div 
-      inline: false, 
-      // Auto gets focus 
-      gainFocusOnConstruction: false, 
-      // The minimum/earliest date that can be selected 
-      min: '01/01/1880', 
-      // The maximum/latest date that can be selected 
-      max: null, 
-      // allows the same date 
-      allowSameDate: true, 
-      });
-        
-      // Locale initialization 
-      $('#date').datepicker('setLocales',
-          Date.dp_locales = {
-            "texts": {
-                "buttonTitle": "Click Date of Birth icon button to select date from calendar",
-                "buttonLabel": "Click or press the Enter key or the spacebar to open the calendar",
-                "prevButtonLabel": "Go to previous month",
-                "prevMonthButtonLabel": "Go to the previous year",
-                "prevYearButtonLabel": "Go to the previous twenty years",
-                "nextButtonLabel": "Go to next month",
-                "nextMonthButtonLabel":  "Go to the next year",
-                "nextYearButtonLabel": "Go to the next twenty years",
-                "changeMonthButtonLabel": "Click or press the Enter key or the spacebar to change the month",
-                "changeYearButtonLabel": "Click or press the Enter key or the spacebar to change the year",
-                "changeRangeButtonLabel": "Click or press the Enter key or the spacebar to go to the next twenty years",
-                "closeButtonTitle": "Close",
-                "closeButtonLabel": "Close the calendar",
-                "calendarHelp": "- Up Arrow and Down Arrow - goes to the same day of the week in the previous or next week respectively. If the end of the month is reached, continues into the next or previous month as appropriate.\r\n- Left Arrow and Right Arrow - advances one day to the next, also in a continuum. Visually focus is moved from day to day and wraps from row to row in the grid of days.\r\n- Control+Page Up - Moves to the same date in the previous year.\r\n- Control+Page Down - Moves to the same date in the next year.\r\n- Home - Moves to the first day of the current month.\r\n- End - Moves to the last day of the current month.\r\n- Page Up - Moves to the same date in the previous month.\r\n- Page Down - Moves to the same date in the next month.\r\n- Enter or Espace - closes the calendar, and the selected date is shown in the associated text box.\r\n- Escape - closes the calendar without any action."
-            },
-            "directionality": "LTR",
-            "month_names": [
-                "January",
-                "February",
-                "March",
-                "April",
-                "May",
-                "June",
-                "July",
-                "August",
-                "September",
-                "October",
-                "November",
-                "December"
-            ],
-            "month_names_abbreviated": [
-                  "Jan",
-                  "Feb",
-                  "Mar",
-                  "Apr",
-                  "May",
-                  "Jun",
-                  "Jul",
-                  "Aug",
-                  "Sep",
-                  "Oct",
-                  "Nov",
-                  "Dec"],
-            "month_names_narrow": [
-                "J",
-                "F",
-                "M",
-                "A",
-                "M",
-                "J",
-                "J",
-                "A",
-                "S",
-                "O",
-                "N",
-                "D"
-            ],
-            "day_names": [
-                "Sunday",
-                "Monday",
-                "Tuesday",
-                "Wednesday",
-                "Thursday",
-                "Friday",
-                "Saturday"
-            ],
-            "day_names_abbreviated": [
-                  "Sun",
-                  "Mon",
-                  "Tue",
-                  "Wed",
-                  "Thu",
-                  "Fri",
-                  "Sat"
-            ],
-            "day_names_short": [
-                "Su",
-                "Mo",
-                "Tu",
-                "We",
-                "Th",
-                "Fr",
-                "Sa"
-            ],
-            "day_names_narrow": [
-                  "S",
-                "M",
-                "T",
-                "W",
-                "T",
-                "F",
-                "S"
-            ],
-            "day_periods": {"am": "AM","noon": "noon","pm": "PM"},
-            "day_periods_abbreviated": {"am": "AM","noon": "noon","pm": "PM"},
-            "day_periods_narrow": {"am": "a","noon": "n","pm": "p"},
-            "quarter_names": ["1st quarter","2nd quarter","3rd quarter","4th quarter"],
-            "quarter_names_abbreviated": ["Q1","Q2","Q3","Q4"],
-            "quarter_names_narrow": ["1","2","3","4"],
-            "era_names": ["Before Christ","Anno Domini"],
-            "era_names_abbreviated": ["BC","AD"],
-            "era_names_narrow": ["B","A"],
-            "full_format": "EEEE, MMMM d, y",
-            "long_format": "MMMM d, y",
-            "medium_format": "MMM d, y",
-            "short_format": "MM/dd/yyyy",
-            "firstday_of_week": 0}
-          ); 
-       
-    </script>
-
-</main><!-- /.container -->
-
-
-          <footer style="background: #4E4E4E;width: 100%;">
-          
-          <nav class="navbar navbar-expand-md navbar-dark bg-dark" id="navfooterlogo">  
-
-          <div class="fancyirs">
-          <img aria-hidden="true" alt="Decorative IRS Logo"
-            src="https://sa.www4.irs.gov/irfof-wmsp/webjars/images/irs_horiz_white.png">
-        </div>
-
-    
-       
-            <li class="nav-item" style="padding-bottom:0.8rem;"><a class="nav-link" title="Click this link to view the IRS Privacy Policy Page">
-              <span style="color:white">IRS Privacy Policy</span>
-              <svg
-                  style="top: 0.2em; vertical-align: baseline; position: relative;"
-                  fill="white" focusable="false" viewBox="0 0 40 40" width="1em"
-                  height="1em">
-  <path
-                    d="m 31.4 20.7 v 7.2 q 0 2.6 -1.9 4.5 t -4.5 1.9 h -18.6
-      q -2.6 0 -4.5 -1.9 t -1.9 -4.5 v -18.6 q 0 -2.7 1.9 -4.6
-      t 4.5 -1.8 h 15.7 q 0.4 0 0.6 0.2 t 0.2 0.5 v 1.4
-      q 0 0.3 -0.2 0.5 t -0.6 0.2 h -15.7 q -1.4 0 -2.5 1.1
-      t -1 2.5 v 18.6 q 0 1.4 1 2.5 t 2.5 1 h 18.6 q 1.5 0 2.5 -1
-      t 1.1 -2.5 v -7.2 q 0 -0.3 0.2 -0.5 t 0.5 -0.2 h 1.4
-      q 0.3 0 0.5 0.2 t 0.2 0.5 Z m 8.6 -19.3 v 11.5
-      q 0 0.5 -0.4 1 t -1 0.4 t -1 -0.4 l -4 -4 l -14.5 14.6
-      q -0.2 0.2 -0.5 0.2 t -0.5 -0.2 l -2.6 -2.6
-      q -0.2 -0.2 -0.2 -0.5 t 0.2 -0.5 l 14.6 -14.5 l -4 -4
-      q -0.4 -0.4 -0.4 -1 t 0.4 -1 t 1 -0.4 h 11.5 q 0.6 0 1 0.4
-      t 0.4 1 Z"></path>
-  </svg></a></li>
-          <li class="nav-item">
-          <a class="nav-link" href="#" style="color:white;padding-bottom:0.8rem">&nbsp;&nbsp;|&nbsp;</a>
-        </li>
-            <li class="nav-item" id="accessibility-link" style="padding-bottom:0.8rem;"><a class="nav-link"
-              title="Click this link to view the Accessibility Page">
-                <span style="color:white; ">Accessibility</span>
-              <svg
-                  style="top: 0.2em; vertical-align: baseline; position: relative;"
-                  fill="white" focusable="false" viewBox="0 0 40 40" width="1em"
-                  height="1em">
-  <path
-                    d="m 31.4 20.7 v 7.2 q 0 2.6 -1.9 4.5 t -4.5 1.9 h -18.6
-      q -2.6 0 -4.5 -1.9 t -1.9 -4.5 v -18.6 q 0 -2.7 1.9 -4.6
-      t 4.5 -1.8 h 15.7 q 0.4 0 0.6 0.2 t 0.2 0.5 v 1.4
-      q 0 0.3 -0.2 0.5 t -0.6 0.2 h -15.7 q -1.4 0 -2.5 1.1
-      t -1 2.5 v 18.6 q 0 1.4 1 2.5 t 2.5 1 h 18.6 q 1.5 0 2.5 -1
-      t 1.1 -2.5 v -7.2 q 0 -0.3 0.2 -0.5 t 0.5 -0.2 h 1.4
-      q 0.3 0 0.5 0.2 t 0.2 0.5 Z m 8.6 -19.3 v 11.5
-      q 0 0.5 -0.4 1 t -1 0.4 t -1 -0.4 l -4 -4 l -14.5 14.6
-      q -0.2 0.2 -0.5 0.2 t -0.5 -0.2 l -2.6 -2.6
-      q -0.2 -0.2 -0.2 -0.5 t 0.2 -0.5 l 14.6 -14.5 l -4 -4
-      q -0.4 -0.4 -0.4 -1 t 0.4 -1 t 1 -0.4 h 11.5 q 0.6 0 1 0.4
-      t 0.4 1 Z"></path>
-  </svg>
-            </a></li>
-        
-          
-
-        </div>
- 
-       </footer>
-    
-
-      
-  </body>
-</html>
+Accessibility
